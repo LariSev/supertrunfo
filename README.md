@@ -1,8 +1,6 @@
 # supertrunfo
 
 // Super Trunfo - Países
-Descrição
-
 Este projeto é uma versão do jogo Super Trunfo, focada em cidades de diferentes estados de um país. O objetivo do jogo é comparar cartas com atributos de cidades, determinando qual carta é mais forte com base em população, área, PIB, pontos turísticos, densidade populacional, PIB per capita e um "Super Poder".
 
 Atributos das Cartas
